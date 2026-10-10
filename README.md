@@ -19,3 +19,4 @@ CREATE TABLE books (
     PRIMARY KEY (isbn)
 );
 ``` 
+2 - Compile in NetBeans
