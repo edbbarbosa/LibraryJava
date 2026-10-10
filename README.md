@@ -26,5 +26,5 @@ $ mvn clean compile
 
 3 - Run: 
 ```
-mvn exec:java
+$ mvn exec:java
 ```
