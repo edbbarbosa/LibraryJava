@@ -19,4 +19,12 @@ CREATE TABLE books (
     PRIMARY KEY (isbn)
 );
 ``` 
-2 - Compile in NetBeans
+2 - Compile with Maven:
+```
+$ mvn clean compile
+```
+
+3 - Run: 
+```
+mvn exec:java
+```
